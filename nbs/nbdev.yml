@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_learn"
+  site-url: "https://mix060514.github.io/nbdev_learn"
+  description: "the repository for learning nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/mix060514/nbdev_learn"
