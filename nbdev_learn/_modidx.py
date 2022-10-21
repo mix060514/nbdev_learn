@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://mix060514.github.io',
                 'git_url': 'https://github.com/mix060514/nbdev_learn',
                 'lib_path': 'nbdev_learn'},
-  'syms': {'nbdev_learn.core': {'nbdev_learn.core.foo': ('core.html#foo', 'nbdev_learn/core.py')}}}
+  'syms': { 'nbdev_learn.core': {'nbdev_learn.core.foo': ('popcore.html#foo', 'nbdev_learn/core.py')},
+            'nbdev_learn.popcore': { 'nbdev_learn.popcore.foo': ('popcore.html#foo', 'nbdev_learn/popcore.py'),
+                                     'nbdev_learn.popcore.say_hello': ('popcore.html#say_hello', 'nbdev_learn/popcore.py')}}}
